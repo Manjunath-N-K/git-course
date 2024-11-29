@@ -1,7 +1,4 @@
 Add or remove users
-
-change the rules????
-
 manage the db 
 
 closing the oravle coonnection

@@ -2,7 +2,6 @@ Get the user data....
 
 
 Experimental branch 
-create avatar
 
 login and logout
 
