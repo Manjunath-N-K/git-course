@@ -4,7 +4,7 @@ change the rules????
 
 manage the db 
 
-closing th eonnection
+closing the oravle coonnection
 
 change 1
 
